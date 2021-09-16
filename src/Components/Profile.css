@@ -1,0 +1,16 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.card{
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+    max-width: 350px;
+    margin:auto;
+    text-align: center;
+    margin-top:50px;
+}
+.title{
+    color:gray;
+    font-size: 18px;
+}
